@@ -15,33 +15,31 @@
        Versatile and productive software developer specialising in web
               applications with Ruby on Rails and Java Script.
       Over twenty years' commercial experience as an analyst/programmer
-    across a broad range of organisations (banking, retailing, telecoms,
-   health-care & leisure), working with dozens of systems (often critical)
-                       in several computer languages.
-       Employed at almost twenty companies, and worked on around fifty
-     projects, (mainly in development but also in analysis and support),
-         producing user-centred database applications with numerous
-              methodologies, idioms, toolkits and frameworks.
-   Have worked in diverse application areas which included finance (stock
-    trading & options), billing, e-retailing, stock control, accountancy,
-    payroll, slot booking, portals, email handling, middleware, messaging
-                         and software engineering.
-       Knowledge of object-oriented analysis and design, MVC, TDD/BDD,
-   practical application of design patterns (Go4) & principles (SOLID), OR
-        mapping & domain model design, UML, version control, internet
-    protocols, basic site design, support (problem determination, impact
-   assessment & non-invasive fixes), web server installations, prototyping
-    & refactoring, legacy system interfacing and project documentation.
+                   across a broad range of organisations.
+    Participated in about fifty projects involving user-centred database
+     applications, which used numerous languages, methodologies, idioms,
+   toolkits and frameworks, mainly in development but also in analysis and
+                                  support.
+       Have worked in diverse application areas which include banking,
+       leisure, billing, e-retailing, stock control, accountancy, slot
+     booking, finance (stock trading & options), payroll, portals, email
+         handling, middleware, messaging and software engineering.
+   Knowledge of object-oriented analysis and design, MVC, Agile, TDD/BDD,
+      applying design patterns (Go4) & principles (SOLID), OR mapping &
+    domain model design, UML, version control, internet protocols, basic
+      site design, support (problem determination, impact assessment &
+         non-invasive fixes), web server installations, prototyping,
+     refactoring, legacy system interfacing and project documentation.
     Ability to write tight tidy modular OO code, to quickly sight-read an
-      application's source, and to break requirements down into easily
-                              testable steps.
+     application's source and to break requirements down into decoupled
+                              cohesive steps.
                                    _______
 
                               Technical Skills
-   Ruby 6 years Rails, generators, meta-programming, standard library, and
-   many gems (HAML, RSpec, Devise, Devise Invitable, Can Can, S3, Resque,
+   Ruby 5 years Rails, generators, meta-programming, standard library, and
+   many gems: HAML, RSpec, Devise, Devise Invitable, Can Can, S3, Resque,
      Paperclip, Bundler, Inherited Resources, Simple Form, Nested Form,
-            LDAP, Octopus, Draper, Will Paginate, Cucumber, etc.)
+            LDAP, Octopus, Draper, Will Paginate, Cucumber, etc.
        Web 15 years Java Script, jQuery, jQuery UI, HTML, CSS, Twitter
                                   Bootstrap
          SQL 15 years MySQL, Oracle, Sybase, PostgreSQL, SQL Server,
@@ -64,41 +62,42 @@
    Arrk (Students Union), Manchester
    2014-2015
    (Contract)
-     * Work on an award winning responsive site, unioncloud.org, serving
-       80 unions with very many thousands of students in each.
-     * Decoupled modules for the mass registration of students, receiving
-       (CSV or JSON) data via an HTTP API or an FTP drop-in.
-     * Collection and distribution of data associated with credit-card
-       transactions.
+     * Development for an award winning responsive site, unioncloud.org,
+       serving 80 unions with very many thousands of students in each.
+     * Produced decoupled modules for the mass registration of students,
+       receiving data (as CSV and JSON) via HTTP API's and an FTP drop-in.
+     * Wrote a module to collect and distribute credit-card transaction
+       data to third-party systems.
      * Additions to an event booking and ticket redemption module.
+     * Synchronising data with an external loyalty points system, sending
+       periodic email notifications of points accrued from on-line
+       purchases.
      * Gathering statistical data for marketing analysis to target
-       audiences.
-     * Synchronising data with a loyalty points third-party system,
-       sending email notifications of points accrued to schedule.
-     * Performance tuning, VM (Cent OS) & Postgresql configuration, and
-       merchandise data imports.
+       specific audiences.
+     * Performance tuning, bug fixing, VM (Cent OS) & Postgresql
+       configuration, and preparation for merchandise data imports.
 
    Freelancing
    2014
-     * An email-based app that receives, reconciles and delivers emails
-       for job applications by aspiring estate agents, who apply via
-       estateagencyallstars.co.uk.
-     * A web-based thesaurus showing metaphors and referential
+     * Developed an email-based app (for estateagencyallstars.co.uk) that
+       receives, reconciles and delivers emails for job applications by
+       aspiring estate agents.
+     * Developed a web-based thesaurus showing metaphors and referential
        information, for Rowdy Labs, USA.
-     * Preparation of course material introducing authentication in Rails
-       for gotealeaf.com.
-     * CRUD-based Rails app managing a clothing inventory for a US
-       warehouse.
+     * Prepared course material introducing authentication in Rails, for
+       gotealeaf.com.
+     * Developed a protpotype CRUD-based Rails app for a clothing
+       inventory in a US warehouse.
 
    Security Icon, London
    2013-2014
    (Contract)
      * Analysis and development of an administrative dashboard (in Rails)
        which interfaces with credit card payment gateways. The UI provides
-       extensive search capabilities (to detect misuse), compiles
-       statistics on card transactions, creates tiered accounts by
-       invitation (Devise) and also uses a Bootstrap template for an
-       attractive design.
+       extensive search capabilities, detects misuse, compiles statistics
+       on card transactions, creates tiered accounts by invitation
+       (Devise) and also uses a Bootstrap template for an attractive
+       design.
      * The project involved synchronising Couchbase & SQL data-bases,
        querying Couchbase, realistic data generation, graph drawing using
        the RGraph JS library, role-based access authorisation, API
@@ -108,10 +107,10 @@
    2012-2013
      * Freelancing through odesk.com, which included an application for
        registering parcel deliveries, data-base population (from JSON to
-       normalised SQL), web-page scraping, and the development of a
-       skeletal Rails application (for wire-framing) using custom
-       generators, Inherited Resources, generic templates, Devise and
-       Twitter Bootstrap 3.
+       normalised SQL), time-slot reservations, web-page scraping, and the
+       development of a skeletal Rails application (for wire-framing)
+       using custom generators, Inherited Resources, generic templates,
+       Devise and Twitter Bootstrap 3.
      * Development of a full-scale application, a virtual betting game,
        runabook.co.uk, which is in Rails and deployed on Heroku. Wrote a
        set of Ruby scripts using the Twitter API to target potential
