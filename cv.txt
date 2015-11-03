@@ -31,8 +31,8 @@
          non-invasive fixes), web server installations, prototyping,
      refactoring, legacy system interfacing and project documentation.
     Ability to write tight tidy modular OO code, to quickly sight-read an
-     application's source and to break requirements down into decoupled
-                              cohesive steps.
+       application's source and to break requirements down into DRY'ed
+                              decoupled steps.
                                    _______
 
                               Technical Skills
@@ -40,8 +40,8 @@
    many gems: HAML, RSpec, Devise, Devise Invitable, Can Can, S3, Resque,
      Paperclip, Bundler, Inherited Resources, Simple Form, Nested Form,
             LDAP, Octopus, Draper, Will Paginate, Cucumber, etc.
-       Web 15 years Java Script, jQuery, jQuery UI, HTML, CSS, Twitter
-                                  Bootstrap
+     Web 15 years Java Script (jQuery, jQuery UI, Coffee Script, React),
+                        HTML, CSS, Twitter Bootstrap
          SQL 15 years MySQL, Oracle, Sybase, PostgreSQL, SQL Server,
                         normalisation, schema design
    Unix 15 years Linux & Solaris, (also HP-UX, BSD, AIX), shell scripting,
@@ -111,12 +111,16 @@
        development of a skeletal Rails application (for wire-framing)
        using custom generators, Inherited Resources, generic templates,
        Devise and Twitter Bootstrap 3.
-     * Development of a full-scale application, a virtual betting game,
-       runabook.co.uk, which is in Rails and deployed on Heroku. Wrote a
-       set of Ruby scripts using the Twitter API to target potential
-       users.
-     * A web-based thesaurus in Rails on github.com/srycyk/thesaurus,
-       which is hosted at http://thesaurus-lexdump.rhcloud.com.
+     * runabook.co.uk - single-handedly developed a full-scale
+       application, which is a pooled betting game for groups of friends
+       to bet on any upcoming sporting fixtures. It is in Rails and
+       Postgresql and deployed on Heroku.
+     * thesaurus-lexdump.rhcloud.com - two one-page thesaurus app's, one
+       in Rails the other in Reactjs. It has one of the largest
+       vocabularies available. Its source is on
+       github.com/srycyk/thesaurus.
+     * Wrote a set of Ruby scripts using the Twitter API to target
+       potential users of the betting game mentioned above.
 
    Scientific Analysis Laboratories, Manchester
    2011-2012
