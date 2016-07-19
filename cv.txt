@@ -36,7 +36,7 @@
                                    _______
 
                               Technical Skills
-   Ruby 5 years Rails, generators, meta-programming, standard library, and
+   Ruby 8 years Rails, generators, meta-programming, standard library, and
    many gems: HAML, RSpec, Devise, Devise Invitable, Can Can, S3, Resque,
      Paperclip, Bundler, Inherited Resources, Simple Form, Nested Form,
             LDAP, Octopus, Draper, Will Paginate, Cucumber, etc.
@@ -59,11 +59,27 @@
 
                             Computing Experience
 
+   FMA, Boulder, Colorado, USA
+   2015-2016
+   (Freelancing)
+     * Development for a property information service provider, First
+       Movers, in Rails, Bootstrap, jQuery, and Mysql, using Github,
+       Pivitol Tracker, and Semaphore.
+     * Rewrite of an administrative website to manage all aspects of
+       customer accounts, which included geo-location searches, credit
+       card registration & charging (with Authorize.net), invoicing, API
+       accessing, and data distribution.
+     * Enhancements to proxyrain.com, a IP address balancing proxy
+       service, and minor changes to a customer account management site
+       for clients' use.
+
    Arrk (Students Union), Manchester
    2014-2015
    (Contract)
      * Development for an award winning responsive site, unioncloud.org,
        serving 80 unions with very many thousands of students in each.
+       Each union has its own subdomain, for example, Manchester
+       University is umsu.unioncloud.org and Sheffild is 'ssu'.
      * Produced decoupled modules for the mass registration of students,
        receiving data (as CSV and JSON) via HTTP API's and an FTP drop-in.
      * Wrote a module to collect and distribute credit-card transaction
