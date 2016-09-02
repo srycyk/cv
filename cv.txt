@@ -11,19 +11,18 @@
                         MSc in Multimedia Computing
                                    _______
 
-                                  Overview
-       Versatile and productive software developer specialising in web
-              applications with Ruby on Rails and Java Script.
-      Over twenty years' commercial experience as an analyst/programmer
-                   across a broad range of organisations.
+                                 Overview
+      Versatile and productive software developer specialising in web
+             applications with Ruby on Rails and Java Script.
+     Twenty five years' commercial experience as an analyst/programmer
+                  across a broad range of organisations.
     Participated in about fifty projects involving user-centred database
      applications, which used numerous languages, methodologies, idioms,
-   toolkits and frameworks, mainly in development but also in analysis and
-                                  support.
-       Have worked in diverse application areas which include banking,
-       leisure, billing, e-retailing, stock control, accountancy, slot
-     booking, finance (stock trading & options), payroll, portals, email
-         handling, middleware, messaging and software engineering.
+    toolkits and frameworks - mainly in development but also in analysis
+                               and support.
+      Have worked in diverse application areas which include banking,
+    leisure, e-retailing, billing, stock control, accountancy, housing,
+   slot booking, payroll, portals, messaging, and software engineering.
    Knowledge of object-oriented analysis and design, MVC, Agile, TDD/BDD,
       applying design patterns (Go4) & principles (SOLID), OR mapping &
     domain model design, UML, version control, internet protocols, basic
@@ -31,30 +30,25 @@
          non-invasive fixes), web server installations, prototyping,
      refactoring, legacy system interfacing and project documentation.
     Ability to write tight tidy modular OO code, to quickly sight-read an
-       application's source and to break requirements down into DRY'ed
-                              decoupled steps.
+   application's source and to break requirements down into DRY decoupled
+                                  steps.
                                    _______
 
                               Technical Skills
    Ruby 8 years Rails, generators, meta-programming, standard library, and
-   many gems: HAML, RSpec, Devise, Devise Invitable, Can Can, S3, Resque,
-     Paperclip, Bundler, Inherited Resources, Simple Form, Nested Form,
-            LDAP, Octopus, Draper, Will Paginate, Cucumber, etc.
-     Web 15 years Java Script (jQuery, jQuery UI, Coffee Script, React),
-                        HTML, CSS, Twitter Bootstrap
-         SQL 15 years MySQL, Oracle, Sybase, PostgreSQL, SQL Server,
+    many of the widely-used gems: RSpec, Devise, Devise Invitable, HAML,
+    Can Can, AWS-S3, Resque, Paperclip, Bundler, Couchbase, Simple Form,
+   Nested Form, Factory Girl, Faker, Minitest, LDAP, Octopus, Draper, Will
+      Paginate, Capybara, Cucumber, various Bootstrap helpers, Geokit,
+               Mechanize, Heroku, Red Hat Cloud, Twitter, etc.
+      Internet 15 years Java Script (jQuery, jQuery UI, Coffee Script,
+         React), HTML, CSS, Twitter Bootstrap, POP/IMAP, SMTP, SOAP
+     SQL 15 years PostgreSQL, MySQL, Oracle, Sybase, SQL Server, SQLite,
                         normalisation, schema design
    Unix 15 years Linux & Solaris, (also HP-UX, BSD, AIX), shell scripting,
    system installation & maintenance (intermediate level - mostly a user)
-                 PHP 3 years OSCommerce, Smarty, persistence
-   Java 3 years Struts, Hibernate, Spring, EJB (JBoss), Servlets/JSP, Ant,
-        Junit, HTTPUnit, JDBC, Commons, XML, LDAP, JMS, XDoclet, AOP,
-                               instrumentation
-                  Perl 6 years OO, CGI, DBI, sockets, SOAP
-   C++ 5 years STL (generics & functional programming), RogueWave, Visual
-                                     C++
-   C 7 years Embedded SQL, TCP/IP network programming, LDAP, IMAP, CGI, X
-          Misc   GIT, Apache configuration, MS Windows, MUMPS, VMS
+   Languages PHP (3 years), Java (3 years), Perl (6 years), C++ (5 years),
+                             C (7 years), MUMPS
                                    _______
 
                             Computing Experience
@@ -63,22 +57,22 @@
    2015-2016
    (Freelancing)
      * Development for a property information service provider, First
-       Movers, in Rails, Bootstrap, jQuery, and Mysql, using Github,
+       Movers, using Rails, Bootstrap, jQuery, and Mysql, with Github,
        Pivitol Tracker, and Semaphore.
-     * Rewrite of an administrative website to manage all aspects of
-       customer accounts, which included geo-location searches, credit
-       card registration & charging (with Authorize.net), invoicing, API
+     * Rewrite of an administrative website to manage customer services,
+       including geo-location searches, user enrollment, credit card
+       registration & charging (with Authorize.net), invoicing, API
        accessing, and data distribution.
      * Enhancements to proxyrain.com, a IP address balancing proxy
-       service, and minor changes to a customer account management site
-       for clients' use.
+       service, and minor changes to an account management site for
+       clients' private use.
 
-   Arrk (Students Union), Manchester
+   Arrk (National Union of Students), Manchester
    2014-2015
    (Contract)
      * Development for an award winning responsive site, unioncloud.org,
        serving 80 unions with very many thousands of students in each.
-       Each union has its own subdomain, for example, Manchester
+       Every union has its own subdomain, for example, Manchester
        University is umsu.unioncloud.org and Sheffild is 'ssu'.
      * Produced decoupled modules for the mass registration of students,
        receiving data (as CSV and JSON) via HTTP API's and an FTP drop-in.
@@ -90,14 +84,16 @@
        purchases.
      * Gathering statistical data for marketing analysis to target
        specific audiences.
-     * Performance tuning, bug fixing, VM (Cent OS) & Postgresql
-       configuration, and preparation for merchandise data imports.
+     * Performance tuning, bug fixing, VM (Cent OS) Zen Desk, New Relic,
+       Postgresql configuration, and preparation for merchandise data
+       imports.
 
    Freelancing
    2014
-     * Developed an email-based app (for estateagencyallstars.co.uk) that
-       receives, reconciles and delivers emails for job applications by
-       aspiring estate agents.
+     * Developed an email-based app, for estateagencyallstars.co.uk, that
+       receives, reconciles and delivers emails (to estate agents) from
+       job applications (consisting of a CV, psychometric test and video
+       presentation) by aspiring estate agents.
      * Developed a web-based thesaurus showing metaphors and referential
        information, for Rowdy Labs, USA.
      * Prepared course material introducing authentication in Rails, for
@@ -112,12 +108,11 @@
        which interfaces with credit card payment gateways. The UI provides
        extensive search capabilities, detects misuse, compiles statistics
        on card transactions, creates tiered accounts by invitation
-       (Devise) and also uses a Bootstrap template for an attractive
-       design.
-     * The project involved synchronising Couchbase & SQL data-bases,
-       querying Couchbase, realistic data generation, graph drawing using
-       the RGraph JS library, role-based access authorisation, API
-       compatibility, Ubuntu system configuration and deployments.
+       (Devise) and also uses a Bootstrap template for a pleasing design.
+     * Synchronising Couchbase & SQL data-bases, querying Couchbase,
+       realistic data generation, graph drawing using the RGraph JS
+       library, role-based access authorisation, API compatibility, Ubuntu
+       system configuration and deployments.
 
    Self-Employed
    2012-2013
@@ -133,8 +128,8 @@
        Postgresql and deployed on Heroku.
      * thesaurus-lexdump.rhcloud.com - two one-page thesaurus app's, one
        in Rails the other in Reactjs. It has one of the largest
-       vocabularies available. Its source is on
-       github.com/srycyk/thesaurus.
+       vocabularies available, as it's an amalgamation of Roget, WordNet,
+       and another thesarus. Its source is on github.com/srycyk/thesaurus.
      * Wrote a set of Ruby scripts using the Twitter API to target
        potential users of the betting game mentioned above.
 
@@ -142,21 +137,21 @@
    2011-2012
    (Contract)
      * Ruby on Rails development using Mysql and Oracle, with Passenger
-       deployment
+       deployments.
      * Developed a quotation and invoicing sub-system to track
-       work-in-progress for scientific analysis of building sites. It
-       permits authorised users to enter quotes, sales orders & chargeable
-       items, and it produces quotation and invoice documents that are
-       sent to the client. Amendments for fine-grained access restriction
-       (Can Can), and the allocation of differing role sets for users per
-       company branch.
+       work-in-progress for chemical and particulate analysis of building
+       sites. It permits authorised users to enter quotes, sales orders &
+       chargeable items, and it produces quotation and invoice documents
+       that are sent to the client. Amendments for fine-grained access
+       restriction (Can Can), and the allocation of differing role sets
+       for users per company branch.
      * Wrote an application to schedule itineraries for the collection and
        delivery of consignments from client's sites. It provides a
        web-based front-end for on-road drivers to use, as well as a
        fallback of delivering SMS texts to give notice of route changes.
      * Database conversions and imports.
      * Enhancements to a web application to measure the ash, moisture and
-       particulate content of samples.
+       density content of chemical samples.
 
    Objective Websites
    2008-2010
@@ -171,125 +166,15 @@
        to find leads.
      * Developed a site to share sheet music in PHP.
 
-   BT, Ipswich
-   2007-2008
-   (Contract)
-     * Development on a telecoms billing systems unification project (in a
-       corporate acquisition) using Java, Perl and C.
-     * Filtering, reconciling and integrating CDR (Call Detail Record)
-       input streams.
-     * Web interface for call tracking using Struts, Hibernate and Spring.
-     * Acceptance and stress testing using JUnit and MySql.
-     * Reference data preparation and input data generation.
-
-   Misys, Birmingham
-   2005-06
-   (Contract)
-     * Development of administrative user interfaces to import and verify
-       stock price data, as part of a portal for selling shares to
-       independent financiers, using Java - Struts, Hibernate and Spring.
-     * Unit and functional testing using Junit and HTTPUnit.
-     * Notification framework to detect and report on stock price
-       discrepancies.
-     * Ad hoc sales breakdown reports and link clicking analysis.
-
-   Schroders Investment, London
-   2004
-   (Contract)
-     * Preparation for a Java/EJB conversion of Perl and PHP stock holding
-       applications, in an outsourced project handover, using Websphere
-       and XDoclet.
-     * Database integrity checking and correction, prior to migration to a
-       new schema design, in Oracle.
-     * Documentation of system functionality.
-
-   Isoft, Manchester
-   2004
-   (Contract)
-     * Health-care application programming with Java (Struts, EJB & JDBC)
-       and PHP.
-     * Development of modules to set up clinics for booking patients'
-       appointments.
-     * Data extraction for statistical reports for use by medical
-       committees.
-
-   P&O Stena, Reading
-   2003
-   (Contract)
-     * Development for a reservation and booking system, using EJB and
-       Struts.
-     * Unit and functional testing.
-     * Converting Perl/PHP applications to EJB and Struts.
-     * Linux and JBoss installation and configuration.
-
-   Fixed Price Contracts
-   2003
-   (Freelancing)
-     * Data-base migration for a housing association.
-     * Wrote websites for selling football kits, ring-tones, ornaments and
-       reselling via drop shippers.
-     * Facility to find arbitrage opportunities by scraping bookies'
-       sites.
-     * Using Perl, PHP and OS-Commerce.
-
-   Liverpool JM University
-   2001 - 2002
-   (Education)
-     * MSc in Multimedia Computing.
-     * Course-work covered Java Multimedia Framework, Quality of Service
-       networking protocols, AI, HCI, OO Design, academic research basics.
-     * Project involved the development of a distributed collaborative
-       portal, in Java using Struts and EJB's.
-
-   Tridion, Holland
-   2001
-   (Contract)
-     * Enhancements to a Content Management System for a multi-lingual
-       portal, used by Ericsson, Open University, Virgin, KLM etc., in OO
-       Perl, XML/XSLT, HTML and JavaScript, with underlying SQL and XML
-       persistence.
-     * Development of generic XSLT server, for caching and load-balancing,
-       in Java.
-
-   Sportal, London
-   2000
-   (Contract)
-     * Development of the registration system for the official Euro 2000
-       football tournament web-site, in C/C++ with an LDAP data-base.
-     * Design and development of an event-driven collection system for the
-       live delivery of British and European football scores, in Perl, XML
-       and SQL.
-     * Capture and re-transmission of live horse racing data, using Java
-       (including Servlets) and XML.
-
-   BSkyB, London
-   2000
-   (Contract)
-     * Development of a high-volume email server for the Sky television
-       set-top box, written in threaded C++ using LDAP, IMAP/POP3 and
-       SMTP.
-     * Development of Perl testing scripts for stress, performance and
-       acceptance.
-
-   Commerzbank, Germany
-   1999
-   (Contract)
-     * Development of a system to collect front-office FX option trades
-       and pass them, in standard SQL and other formats, to back-office
-       applications for reconciliation. - written in C++ with the data
-       obtained from MUREX's OLK interface.
-     * Currency dealing simulation for testing, in Perl.
-     * Changes to trading reports for Euro changeover, in C++.
-
-   Nat West, Newton Investment, Datel-Ferranti, NHL (USA), Hoskyns, EDS,
-   AT&T, NHS, German Health Service, etc
-   1988 - 1999
-
-     * Contracts and permanent positions in banking, health-care,
-       software-engineering and retailing.
-     * Code writing and business analysis in C, C++ and MUMPS.
-     * Internet programming
-     * Development using Quasar - an investment banking application.
-     * Systems programming and configuration in UNIX and VMS.
-     * Software distribution, release management and data-base
-       administration.
+   1988 - 2008
+   (Various)
+     * Contracts and permanent positions in finance (stock trading &
+       options), health-care, education, CMS development, email handling,
+       warehousing and retailing.
+     * Coding, analysis, software distribution, release management and
+       data-base administration.
+     * BT (Ipswich), Misys (Birmingham), Isoft (Manchester), Tridion
+       (Holland), Sportal (London), BSkyB (London), Commerzbank (Germany),
+       Nat West (Bristol), Newton Investment (London), Datel-Ferranti
+       (Preston), NHL (USA), Hoskyns (Southampton), EDS (Birmingham), AT&T
+       (Redditch), NHS (nationwide), German Health Service
