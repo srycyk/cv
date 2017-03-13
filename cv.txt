@@ -32,6 +32,9 @@
     Ability to write tight tidy modular OO code, to quickly sight-read an
    application's source and to break requirements down into DRY decoupled
                                   steps.
+                For a recent example of my code, please see
+       https://github.com/srycyk/visitor, which is a Rails 5 app for
+                            bookmarking URL's.
                                    _______
 
                               Technical Skills
