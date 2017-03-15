@@ -119,22 +119,23 @@
 
    Self-Employed
    2012-2013
-     * Freelancing through odesk.com, which included an application for
+     * Short-term freelancing projects which included an application for
        registering parcel deliveries, data-base population (from JSON to
        normalised SQL), time-slot reservations, web-page scraping, and the
        development of a skeletal Rails application (for wire-framing)
        using custom generators, Inherited Resources, generic templates,
        Devise and Twitter Bootstrap 3.
-     * runabook.co.uk - single-handedly developed a full-scale
-       application, which is a pooled betting game for groups of friends
-       to bet on any upcoming sporting fixtures. It is in Rails and
-       Postgresql and deployed on Heroku.
-     * thesaurus-lexdump.rhcloud.com - two one-page thesaurus app's, one
-       in Rails the other in Reactjs. It has one of the largest
-       vocabularies available, as it's an amalgamation of Roget, WordNet,
-       and another thesarus. Its source is on github.com/srycyk/thesaurus.
-     * Wrote a set of Ruby scripts using the Twitter API to target
-       potential users of the betting game mentioned above.
+     * Worked on http://runabook.co.uk which is a pooled betting game for
+       groups of friends to bet on any upcoming sporting fixtures, but it
+       didn't prove popular. It's in Rails and deployed on Heroku, it has
+       15K lines of code. Wrote a set of Ruby scripts using the Twitter
+       API to target potential users of this game.
+     * Also developed, http://thesaurus-lexdump.rhcloud.com - two one-page
+       thesaurus app's, one in Rails the other in Reactjs. It has one of
+       the largest vocabularies available, as it's an amalgamation of
+       Roget, WordNet, and another thesarus. Its source is on
+       github.com/srycyk/thesaurus.
+     *
 
    Scientific Analysis Laboratories, Manchester
    2011-2012
