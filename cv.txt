@@ -32,18 +32,15 @@
     Ability to write tight tidy modular OO code, to quickly sight-read an
    application's source and to break requirements down into DRY decoupled
                                   steps.
-                For a recent example of my code, please see
-       https://github.com/srycyk/visitor, which is a Rails 5 app for
-                            bookmarking URL's.
                                    _______
 
                               Technical Skills
-   Ruby 8 years Rails, generators, meta-programming, standard library, and
-    many of the widely-used gems: RSpec, Devise, Devise Invitable, HAML,
-    Can Can, AWS-S3, Resque, Paperclip, Bundler, Couchbase, Simple Form,
-   Nested Form, Factory Girl, Faker, Minitest, LDAP, Octopus, Draper, Will
-      Paginate, Capybara, Cucumber, various Bootstrap helpers, Geokit,
-               Mechanize, Heroku, Red Hat Cloud, Twitter, etc.
+    Ruby 9 years Rails, the standard library, and many of the widely-used
+     gems, for instance: RSpec, Minitest, Factory Girl, Faker, Capybara,
+     Nokogiri, Devise, Devise Invitable, HAML, Can Can, AWS-S3, Resque,
+    Paperclip, Couchbase, LDAP, Octopus, Kaminari, Will Paginate, Draper,
+    Cucumber, various Bootstrap helpers, Geokit, Mechanize, Simple Form,
+              Nested Form, Heroku, Red Hat Cloud, and Twitter.
       Internet 15 years Java Script (jQuery, jQuery UI, Coffee Script,
          React), HTML, CSS, Twitter Bootstrap, POP/IMAP, SMTP, SOAP
      SQL 15 years PostgreSQL, MySQL, Oracle, Sybase, SQL Server, SQLite,
@@ -56,17 +53,35 @@
 
                             Computing Experience
 
+   Various
+   2017
+     * http://niads.co.uk An attempt to broaden my options by becoming
+       self-employed. To promote this venture, I've written a scraper to
+       find potential clients by extracting data starting from business
+       directory sites.
+     * https://github.com/srycyk/mine A multi-featured web page scraping
+       framework built from scratch. It's quite intricate inside, but
+       exposes a simple top level interface that cuts down the retrieval
+       of a set of related pages into no more than a few lines of code.
+     * https://github.com/srycyk/visitor A small standard Rails site to
+       bookmark URL's. It has nested tagging, imports & exports, and
+       DRY'ed up views.
+     * https://github.com/srycyk/radio. A rough, but ready, site that
+       lists BBC radio programmes. It has a Rails back-end and a React
+       front-end. I wrote it mainly to practise React, but I do use it
+       myself.
+     * Various short-term freelancing jobs in Rails.
+
    FMA, Boulder, Colorado, USA
    2015-2016
-   (Freelancing)
      * Development for a property information service provider, First
        Movers, using Rails, Bootstrap, jQuery, and Mysql, with Github,
-       Pivitol Tracker, and Semaphore.
+       Pivotal Tracker, and Semaphore.
      * Rewrite of an administrative website to manage customer services,
        including geo-location searches, user enrollment, credit card
        registration & charging (with Authorize.net), invoicing, API
        accessing, and data distribution.
-     * Enhancements to proxyrain.com, a IP address balancing proxy
+     * Enhancements to http://proxyrain.com, a IP address balancing proxy
        service, and minor changes to an account management site for
        clients' private use.
 
@@ -76,7 +91,7 @@
      * Development for an award winning responsive site, unioncloud.org,
        serving 80 unions with very many thousands of students in each.
        Every union has its own subdomain, for example, Manchester
-       University is umsu.unioncloud.org and Sheffild is 'ssu'.
+       University is umsu.unioncloud.org and Sheffield starts with ssu.
      * Produced decoupled modules for the mass registration of students,
        receiving data (as CSV and JSON) via HTTP API's and an FTP drop-in.
      * Wrote a module to collect and distribute credit-card transaction
@@ -101,8 +116,8 @@
        information, for Rowdy Labs, USA.
      * Prepared course material introducing authentication in Rails, for
        gotealeaf.com.
-     * Developed a protpotype CRUD-based Rails app for a clothing
-       inventory in a US warehouse.
+     * Developed a prototype CRUD-based Rails app for a clothing inventory
+       in a US warehouse.
 
    Security Icon, London
    2013-2014
@@ -130,12 +145,11 @@
        didn't prove popular. It's in Rails and deployed on Heroku, it has
        15K lines of code. Wrote a set of Ruby scripts using the Twitter
        API to target potential users of this game.
-     * Also developed, http://thesaurus-lexdump.rhcloud.com - two one-page
-       thesaurus app's, one in Rails the other in Reactjs. It has one of
+     * Also developed, github.com/srycyk/thesaurus. - two one-page
+       thesaurus app's, one in Rails, the other in React. It has one of
        the largest vocabularies available, as it's an amalgamation of
-       Roget, WordNet, and another thesarus. Its source is on
-       github.com/srycyk/thesaurus.
-     *
+       Roget, WordNet, and another thesaurus. It was online at
+       http://thesaurus-lexdump.rhcloud.com, but no longer.
 
    Scientific Analysis Laboratories, Manchester
    2011-2012
@@ -150,12 +164,12 @@
        restriction (Can Can), and the allocation of differing role sets
        for users per company branch.
      * Wrote an application to schedule itineraries for the collection and
-       delivery of consignments from client's sites. It provides a
+       delivery of consignments from clients' sites. It provides a
        web-based front-end for on-road drivers to use, as well as a
        fallback of delivering SMS texts to give notice of route changes.
      * Database conversions and imports.
      * Enhancements to a web application to measure the ash, moisture and
-       density content of chemical samples.
+       density of chemical samples.
 
    Objective Websites
    2008-2010
@@ -181,4 +195,4 @@
        (Holland), Sportal (London), BSkyB (London), Commerzbank (Germany),
        Nat West (Bristol), Newton Investment (London), Datel-Ferranti
        (Preston), NHL (USA), Hoskyns (Southampton), EDS (Birmingham), AT&T
-       (Redditch), NHS (nationwide), German Health Service
+       (Redditch), NHS (nationwide), German Health Service, etc..
