@@ -57,9 +57,10 @@
    2017-2018
      * https://github.com/srycyk/templet_rails A framework that encourages
        a more object oriented approach to writing view markup in Rails.
-       It's a replacement for ERb scripts, and the like, providing
-       out-of-the-box behaviour that can be easily altered. It's the the
-       most recent example of my coding.
+       It's a replacement for ERb scripts, and Rails' scaffolding,
+       providing out-of-the-box functionality that can be easily altered.
+       To see this framework in action, (or to review the code), the best
+       place to start is the demo Rails application, questionable.
      * http://niads.co.uk An attempt to broaden my options by becoming
        self-employed. To promote this venture, I've written a scraper to
        find potential clients by extracting data starting from business
