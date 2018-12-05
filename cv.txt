@@ -35,7 +35,7 @@
                                    _______
 
                               Technical Skills
-    Ruby 9 years Rails, the standard library, and many of the widely-used
+   Ruby 10 years Rails, the standard library, and many of the widely-used
      gems, for instance: RSpec, Minitest, Factory Girl, Faker, Capybara,
      Nokogiri, Devise, Devise Invitable, HAML, Can Can, AWS-S3, Resque,
     Paperclip, Couchbase, LDAP, Octopus, Kaminari, Will Paginate, Draper,
@@ -54,7 +54,12 @@
                             Computing Experience
 
    Various
-   2017
+   2017-2018
+     * https://github.com/srycyk/templet_rails A framework that encourages
+       a more object oriented approach to writing view markup in Rails.
+       It's a replacement for ERb scripts, and the like, providing
+       out-of-the-box behaviour that can be easily altered. It's the the
+       most recent example of my coding.
      * http://niads.co.uk An attempt to broaden my options by becoming
        self-employed. To promote this venture, I've written a scraper to
        find potential clients by extracting data starting from business
@@ -70,7 +75,8 @@
        lists BBC radio programmes. It has a Rails back-end and a React
        front-end. I wrote it mainly to practise React, but I do use it
        myself.
-     * Various short-term freelancing jobs in Rails.
+     * Short-term freelancing jobs in education and GDPR compliance using
+       Rails.
 
    FMA, Boulder, Colorado, USA
    2015-2016
