@@ -240,11 +240,12 @@ body {
         </td>
         <td class="boxed">
           Rails, the standard library, and many of the widely-used gems,
-          for instance: RSpec, Minitest, Factory Girl, Faker, Capybara,
-          Nokogiri, Devise, Devise Invitable, HAML, Can Can, AWS-S3, Resque,
-          Paperclip, Couchbase, LDAP, Octopus, Kaminari, Will Paginate,
-          Draper, Cucumber, various Bootstrap helpers, Geokit, Mechanize,
-          Simple Form, Nested Form, Heroku, Red Hat Cloud, and Twitter.
+          for instance: Jekyll, RSpec, Minitest, Factory Girl, Capybara,
+          Nokogiri, Faker, Devise, Devise Invitable, HAML, Can Can, AWS-S3,
+          Resque, Paperclip, Couchbase, LDAP, Octopus, Kaminari,
+          Will Paginate, Draper, Cucumber, various Bootstrap helpers,
+          Geokit, Mechanize, Simple Form, Nested Form, Heroku,
+          Red Hat Cloud, and Twitter.
         </td>
       </tr>
       <tr>
@@ -316,33 +317,38 @@ body {
           <ul>
             <li>
               <a href="https://github.com/srycyk/templet_rails">https://github.com/srycyk/templet_rails</a>
-              A framework that encourages a more object oriented approach
-              to writing view markup in Rails.
-              It's a replacement for ERb scripts, and Rails' scaffolding,
-              providing <i>out-of-the-box</i> functionality that
-              can be easily altered.
-              To see this framework in action, (or to review the code),
-              the best place to start is the demo Rails application,
+              A Rails mini-framework that replaces traditional controller
+              and view scaffolding.
+              It dispenses with markup scripts (ERb, HAML, etc.) and
+              (your own) custom Helper methods.
+              Instead, view rendering is carried out by a single Ruby class,
+              which is called from, and is similar to, a regular Controller.
+              It provides a bit more functionality than scaffolding does,
+              but more, it encourages a wholly object oriented approach to
+              writing views.
+              To see how the framework works, the best place to start is
+              the demo Rails application,
               <a href="https://github.com/srycyk/questionable">questionable</a>.
             </li>
             <li>
               <a href="http://niads.co.uk">http://niads.co.uk</a>
               An attempt to broaden my options by becoming self-employed.
               To promote this venture, I've written a scraper to find
-              potential clients by extracting data starting from
+              potential clients by extracting data from
               business directory sites.
             </li>
             <li>
               <a href="https://github.com/srycyk/mine">https://github.com/srycyk/mine</a>
               A multi-featured web page scraping framework built from scratch.
-              It's quite intricate inside, but exposes a simple top level
+              Although quite intricate inside, it exposes a simple top level
               interface that cuts down the retrieval of a set of related
-              pages into no more than a few lines of code.
+              pages into a few lines of code.
             </li>
             <li>
               <a href="https://github.com/srycyk/visitor">https://github.com/srycyk/visitor</a>
               A small standard Rails site to bookmark URL's.
-              It has nested tagging, imports &amp; exports, and DRY'ed up views.
+              It has nested tagging, imports &amp; exports,
+              and DRY'ed up views.
             </li>
             <li>
               <a href="https://github.com/srycyk/radio">https://github.com/srycyk/radio</a>.
