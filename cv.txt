@@ -75,7 +75,7 @@
        provides a bit more functionality than scaffolding does, but more,
        it encourages a wholly object oriented approach to writing views.
        To see how the framework works, the best place to start is the demo
-       Rails application, questionable.
+       Rails application, templet_demo.
      * https://github.com/srycyk/visitor A small standard Rails site to
        bookmark URL's. It has nested tagging, imports & exports, and
        DRY'ed up views.
