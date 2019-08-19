@@ -56,15 +56,28 @@
 
    Various
    2017-2019
+     * https://github.com/srycyk/in_order A Rails engine that implements a
+       linked list in SQL. The list has a composite key, by which a series
+       of models are linked together in a specified order. The
+       functionality has a multiplicity of real-world uses, allowing
+       relationships to be set up between any models you choose, and
+       without altering any original code. The API is fully-featured,
+       giving you full control in editing a list's elements.
      * https://hmrc-mtd-vat.herokuapp.com A site to submit and list VAT
-       returns using the HMRC MTD API. It's currently a demonstration -
-       almost ready to go live.
+       returns using the MTD (Make Tax Digital) API. It has an Oauth HMRC
+       login, and a number of forms that permit organisations to fulfil
+       their VAT obligations. It's currently a demonstration - almost
+       ready to go live.
      * http://niads.co.uk An attempt to broaden my options by becoming
        self-employed. To promote this venture, I've written the scraper
        (below) to find potential clients by extracting data from business
        directory sites.
-     * https://github.com/srycyk/mine A multi-featured web page scraping
-       framework built from scratch. Although quite intricate inside, it
+     * https://github.com/srycyk/mine A web-page scraping framework built
+       from scratch. It has numerous features, like proxy rotation, cookie
+       keeping, full error recovery, data extraction utilities, HTTP
+       logging, local file-system storage, a simplified command-line
+       interface, several run-time modes & options, and, if halted, it
+       continues from where it was. Although quite intricate inside, it
        exposes a simple top level interface that cuts down the retrieval
        of a set of related pages into a few lines of code.
      * https://github.com/srycyk/templet_rails A Rails mini-framework that
@@ -83,8 +96,7 @@
        lists BBC radio programmes. It has a Rails back-end and a React
        front-end. I wrote it mainly to practise React, but I do use it
        myself.
-     * Short-term freelancing jobs in education and GDPR compliance using
-       Rails.
+     * Freelancing jobs in education and GDPR compliance using Rails.
 
    FMA, Boulder, Colorado, USA
    2015-2016
