@@ -99,6 +99,7 @@ body {
   margin: 10px 35px 10px 35px;
 }
 </style>
+
     <title>Curriculum Vitae of Experienced Software Developer</title>
 </head>
 
@@ -181,13 +182,13 @@ body {
       </tr>
       <tr>
          <td class="centred">
-           Twenty five years' commercial experience as an analyst/programmer
+           Decades of commercial experience as an analyst/programmer
            across a broad range of organisations.
           </td>
         </tr>
       <tr>
         <td class="centred">
-          Participated in about fifty projects involving user-centred
+          Participated in over fifty projects involving user-centred
           database applications, which used numerous languages,
           methodologies, idioms, toolkits and frameworks -
           mainly in development but also in analysis and support.
@@ -195,29 +196,33 @@ body {
       </tr>
       <tr>
         <td class="centred">
-          Have worked in diverse application areas which include banking,
-          leisure, e-retailing, billing, stock control, accountancy,
-          housing, slot booking, payroll, portals, messaging,
-          and software engineering.
+          Have worked in diverse application areas which include
+          accountancy, housing, leisure, education,
+          banking, health care, transport,
+          e-retailing, billing, stock control, payroll,
+          handling credit cards,
+          slot booking, portals, and messaging (e.g. email &amp; SMS).
         </td>
       </tr>
       <tr>
         <td class="centred">
           Knowledge of object-oriented analysis and design, MVC, Agile,
           TDD/BDD, applying design patterns (Go4) &amp; principles (SOLID),
-          OR mapping &amp; domain model design, UML, version control,
+          OR mapping &amp; domain model design, version control,
           internet protocols, basic site design,
           support (problem determination, impact assessment
                    &amp; non-invasive fixes),
           web server installations, prototyping, refactoring,
-          legacy system interfacing and project documentation.
+          legacy system interfacing, software engineering,
+          UML, and project documentation.
         </td>
       </tr>
       <tr>
         <td class="centred">
           Ability to write tight tidy modular OO code,
-          to quickly sight-read an application's source
-          and to break requirements down into DRY decoupled steps.
+          to quickly sight-read an application's source,
+          and to break requirements down into
+          re-usable decoupled encapsulated steps.
         </td>
       </tr>
     </table>
@@ -236,14 +241,14 @@ body {
           Ruby
         </td>
         <td class="boxed">
-          10&nbsp;years
+          10+&nbsp;years
         </td>
         <td class="boxed">
           Rails, the standard library, and many of the widely-used gems,
-          for instance: Jekyll, RSpec, Minitest, Factory Girl, Capybara,
+          for instance: RSpec, Minitest, Factory Girl, Capybara,
           Nokogiri, Faker, Devise, Devise Invitable, Oauth, Doorkeeper,
           HAML, Can Can, AWS-S3, Resque, Paperclip, Couchbase, LDAP,
-          Octopus, Kaminari, Will Paginate, Draper, Cucumber,
+          Octopus, Kaminari, Will Paginate, Draper, Cucumber, Jekyll,
           various Bootstrap helpers, Geokit, Mechanize, Simple Form,
           Nested Form, Heroku, Red Hat Cloud, and Twitter.
         </td>
@@ -253,7 +258,7 @@ body {
           Internet
         </td>
         <td class="boxed">
-          15&nbsp;years
+          20&nbsp;years
         </td>
         <td class="boxed">
           Java Script (jQuery, jQuery UI, Coffee Script, React),
@@ -265,7 +270,7 @@ body {
           SQL
         </td>
         <td class="boxed">
-          15&nbsp;years
+          25&nbsp;years
         </td>
         <td class="boxed">
           PostgreSQL, MySQL, Oracle, Sybase, SQL Server,
@@ -277,7 +282,7 @@ body {
           Unix
         </td>
         <td class="boxed">
-          15&nbsp;years
+          25&nbsp;years
         </td>
         <td class="boxed">
           Linux &amp; Solaris, (also HP-UX, BSD, AIX), shell scripting,
@@ -307,6 +312,69 @@ body {
       </tr>
     </table>
     <table class="jobTable" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td class="jobBoxLeft">
+          Business Cloud Essentials, Advanced, Mailbox, Birmingham
+          <br />
+          2019-2020
+         <br />
+         (Contract)
+        </td>
+        <td class="jobBoxRight">
+          <ul>
+            <li>
+              <a href="https://www.oneadvanced.com/solutions/businesscloudessentials/">http:///www.oneadvanced.com/solutions/businesscloudessentials/</a>
+              Business management site for SME manufacturers to administer
+              their company from a single source.
+              Mostly in Rails (5.0), but with a lot of front-end JS.
+            </li>
+
+            <li>
+              Worked on the invoicing modules, which integrate
+              sales quotes, sales orders, sales invoices,
+              purchase orders, purchase invoices, and credit notes.
+            </li>
+
+            <li>
+              Added new features,
+              for each of the invoice types listed above,
+              to allow incorrectly completed fields to be easily amended.
+              These included role-based selective field editing,
+              and, for more serious entry mistakes,
+              reversing (i.e. a cancellation of) an existing invoice,
+              providing an ability to re-issue with corrections to fields
+              taken from the original (cancelled) invoice.
+              <em>
+                This functionality performs several supplementary tasks,
+                such as replenishing the stock inventory,
+                altering various fields to be in line with the current date,
+                and ensuring that
+                the new invoice differs significantly from the old.
+              </em>
+            </li>
+
+            <li>
+              Developed a new module for bulk multi-currency payments
+              to a subset of suppliers.
+              This reconciles payments of all due purchase invoices
+              with credit notes and outstanding sales invoices.
+              It has an option to select individual purchase invoices
+              so they may be fully paid, partly paid, or not paid at all.
+              It produces remittance advice that's send to the suppliers,
+              and prepares data for a funds transfer (BACS) that's
+              recorded on a ledger.
+            </li>
+
+            <li>
+              Some general bug fixing for things like
+              PPI field edits,
+              stock control,
+              applyimg per-customer discounts,
+              and front-end enhancements.
+            </li>
+          </ul>
+        </td>
+      </tr>
       <tr>
         <td class="jobBoxLeft">
           Various
@@ -393,6 +461,8 @@ body {
           FMA, Boulder, Colorado, USA
           <br />
           2015-2016
+          <br />
+         (Full-time)
         </td>
         <td class="jobBoxRight">
           <ul>
@@ -439,11 +509,18 @@ body {
             <li>
               Produced decoupled modules for the mass registration of students,
               receiving data (as CSV and JSON) via HTTP API's
-             and an FTP drop-in.
+              and an FTP drop-in.
+              Once received, the data needed to be 
+              transformed into a standard format,
+              and then validated.
             </li>
             <li>
               Wrote a module to collect and distribute credit-card
               transaction data to third-party systems.
+            </li>
+            <li>
+              Improved the performance of a financial transaction report
+              that made it about a thousand times quicker.
             </li>
             <li>
               Additions to an event booking and ticket redemption module.
@@ -455,10 +532,10 @@ body {
             </li>
             <li>
               Gathering statistical data for marketing analysis
-              to target specific audiences.
+              that targets specific audiences, like sports club members.
             </li>
             <li>
-              Performance tuning, bug fixing, VM (Cent OS) Zen Desk,
+              Performance tuning, bug fixing, VM (Cent OS), Zen Desk,
               New Relic, Postgresql configuration,
               and preparation for merchandise data imports.
             </li>
@@ -580,14 +657,15 @@ body {
        <td class="jobBoxRight">
          <ul>
            <li>
-             Ruby on Rails development using Mysql and Oracle,
+             Development for laboratory administraion
+             in Ruby on Rails using Mysql and Oracle,
              with Passenger deployments.
            </li>
            <li>
              Developed a quotation and invoicing sub-system
              to track work-in-progress for chemical and particulate analysis
-             of building sites.
-             It permits authorised users to enter quotes,
+             on brown-field building sites.
+             This permits authorised users to enter quotes,
              sales orders &amp; chargeable items,
              and it produces quotation and invoice documents
              that are sent to the client.
