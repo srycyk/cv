@@ -1,3 +1,279 @@
-   For full functionality of this site it is necessary to enable
-   JavaScript. Here are the instructions how to enable JavaScript in your
-   web browser.
+                                  Personal
+                               Stephen Rycyk
+                     4 Kintore Road, Liverpool, L19 0NL
+                               0151 494 1462
+                        stephen.rycyk@googlemail.com
+                                   _______
+
+                                 Education
+                        BA Hons in Philosophy (2:1)
+                     Post Graduate Diploma in Computing
+                        MSc in Multimedia Computing
+                                   _______
+
+                                                 Overview
+       Versatile and productive software developer specialising in web
+              applications with Ruby on Rails and Java Script.
+     Decades of commercial experience as an analyst/programmer across a
+                        broad range of organisations.
+     Participated in over fifty projects involving user-centred database
+     applications, which used numerous languages, methodologies, idioms,
+    toolkits and frameworks - mainly in development but also in analysis
+                                and support.
+     Have worked in diverse application areas which include accountancy,
+        housing, leisure, education, banking, health care, transport,
+    e-retailing, billing, stock control, payroll, handling credit cards,
+          slot booking, portals, and messaging (e.g. email & SMS).
+   Knowledge of object-oriented analysis and design, MVC, Agile, TDD/BDD,
+      applying design patterns (Go4) & principles (SOLID), OR mapping &
+    domain model design, version control, internet protocols, basic site
+         design, support (problem determination, impact assessment &
+         non-invasive fixes), web server installations, prototyping,
+   refactoring, legacy system interfacing, software engineering, UML, and
+                           project documentation.
+     Ability to write tight tidy modular OO code that's easy to test, to
+   quickly comprehend existing source code, and to break requirements down
+                into re-usable decoupled encapsulated steps.
+                                   _______
+
+                              Technical Skills
+   Ruby 10+ years Rails, the standard library, and many of the widely-used
+   gems, for instance: RSpec, Minitest, Factory Girl, Capybara, Nokogiri,
+     Faker, Devise, Devise Invitable, Oauth, Doorkeeper, HAML, Can Can,
+     AWS-S3, Resque, Paperclip, Couchbase, LDAP, Octopus, Kaminari, Will
+   Paginate, Draper, Cucumber, Jekyll, various Bootstrap helpers, Geokit,
+       Mechanize, Simple Form, Nested Form, Heroku, Red Hat Cloud, and
+                                  Twitter.
+      Internet 20 years Java Script (jQuery, jQuery UI, Coffee Script,
+         React), HTML, CSS, Twitter Bootstrap, POP/IMAP, SMTP, SOAP
+     SQL 25 years PostgreSQL, MySQL, Oracle, Sybase, SQL Server, SQLite,
+                        normalisation, schema design
+   Unix 25 years Linux & Solaris, (also HP-UX, BSD, AIX), shell scripting,
+   system installation & maintenance (intermediate level - mostly a user)
+   Languages PHP (3 years), Java (3 years), Perl (6 years), C++ (5 years),
+                             C (7 years), MUMPS
+                                   _______
+
+                            Computing Experience
+
+   Money and Pensions Service, Holborn, London
+   2021
+   (Contract)
+     * https://maps.org.uk/ Government funded site that provides detailed
+       advice for the general public on financial matters, such as
+       banking, mortgages, pensions, benefits and budget management. A
+       highly distributed site in Rails (5.0), consisting of more than
+       twenty discrete stand-alone sub-systems, which are mostly Rails
+       Engines. Some of these can be found at
+       https://github.com/moneyadviceservice.
+     * Enhancements to administrative facilities to ensure that only
+       government approved bodies appear on the listings that show
+       pensions and travel advisers.
+     * Rewrite of a module that recurrently refreshes the tables of
+       retirement advisors, by using data collected from API calls.
+     * Resolving bugs in a Stamp and Land Duty tax calculator.
+     * Fixing failing tests in numerous testing suites.
+
+   Business Cloud Essentials, Advanced, Mailbox, Birmingham
+   2019-2020
+   (Contract)
+     * http:///www.oneadvanced.com/solutions/businesscloudessentials/
+       Business management site for SME manufacturers to administer their
+       company from a single source. Mostly in Rails (5.0), but with a lot
+       of front-end JS.
+     * Worked on the invoicing modules, which integrate sales quotes,
+       sales orders, sales invoices, purchase orders, purchase invoices,
+       and credit notes.
+     * Added new features for each of the invoice types listed above, to
+       allow incorrectly completed fields to be easily amended. These
+       included role-based selective field editing, and, for more serious
+       entry mistakes, reversing (i.e. a cancellation of) an existing
+       invoice, providing an ability to re-issue with corrections to
+       fields taken from the original (cancelled) invoice. This
+       functionality performs several supplementary tasks, such as
+       replenishing the stock inventory, altering various fields to be in
+       line with the current date, and ensuring that the new invoice
+       differs significantly from the old.
+     * Developed a new module for bulk multi-currency payments to a subset
+       of suppliers. This reconciles payments of all due purchase invoices
+       with credit notes and outstanding sales invoices. It has an option
+       to select individual purchase invoices so they may be fully paid,
+       partly paid, or not paid at all. It produces remittance advice
+       that's send to the suppliers, and prepares data for a funds
+       transfer (BACS) that's recorded on a ledger.
+     * General bug fixing for things like PPI field edits, stock control,
+       applying per-customer discounts, and front-end enhancements.
+
+   Various
+   2017-2019
+     * Freelancing jobs in GDPR compliance and education using Rails.
+     * https://github.com/srycyk/in_order A Rails engine that implements a
+       linked list in SQL. The list has a composite key, by which a series
+       of models are linked together in a specified order. The
+       functionality has a multiplicity of real-world uses, allowing
+       relationships to be set up between any models you choose, and
+       without altering any original code. The API is fully-featured,
+       giving you full control in editing a list's elements.
+     * https://hmrc-mtd-vat.herokuapp.com A site to submit and list VAT
+       returns using the MTD (Make Tax Digital) API. It has an Oauth HMRC
+       login, and a number of forms that permit organisations to fulfil
+       their VAT obligations. It's currently a demonstration - almost
+       ready to go live.
+     * http://niads.co.uk An attempt to broaden my options by becoming
+       self-employed. To promote this venture, I've written the scraper
+       (below) to find potential clients by extracting data from business
+       directory sites.
+     * https://github.com/srycyk/mine A web-page scraping framework built
+       from scratch. It has numerous features, like proxy rotation, cookie
+       keeping, full error recovery, data extraction utilities, HTTP
+       logging, local file-system storage, a simplified command-line
+       interface, several run-time modes & options, and, if halted, it
+       continues from where it was. Although quite intricate inside, it
+       exposes a simple top level interface that cuts down the retrieval
+       of a set of related pages into a few lines of code.
+     * https://github.com/srycyk/templet_rails A Rails mini-framework that
+       replaces traditional controller and view scaffolding. It dispenses
+       with markup scripts (ERb, HAML, etc.) and (your own) custom Helper
+       methods. Instead, view rendering is carried out by a Ruby class,
+       which is called from, and is similar to, a regular controller. It
+       provides a bit more functionality than scaffolding does, but more,
+       it encourages a wholly object oriented approach to writing views.
+       To see how the framework works, the best place to start is the demo
+       Rails application, templet_demo.
+     * https://github.com/srycyk/visitor A small standard Rails site to
+       bookmark URL's. It has nested tagging, imports & exports, and
+       DRY'ed up views.
+     * https://github.com/srycyk/radio. A rough, but ready, site that
+       lists BBC radio programmes. It has a Rails back-end and a React
+       front-end. I wrote it mainly to practise React, but I do use it
+       myself.
+
+   FMA, Boulder, Colorado, USA
+   2015-2016
+   (Full-Time)
+     * Development for a property information service provider, First
+       Movers, using Rails, Bootstrap, jQuery, and Mysql, with Github,
+       Pivotal Tracker, and Semaphore.
+     * Rewrite of an administrative website to manage customer services,
+       including geo-location searches, user enrolment, credit card
+       registration & charging (with Authorize.net), invoicing, API
+       accessing, and data distribution.
+     * Enhancements to http://proxyrain.com, a IP address balancing proxy
+       service, and minor changes to an account management site for
+       clients' private use.
+
+   Arrk (National Union of Students), Manchester
+   2014-2015
+   (Contract)
+     * Development for an award winning responsive site, unioncloud.org,
+       serving 80 unions with very many thousands of students in each.
+       Every union has its own subdomain, for example, Manchester
+       University is umsu.unioncloud.org and Sheffield starts with ssu.
+     * Produced decoupled modules for the mass registration of students,
+       receiving data (as CSV and JSON) via HTTP API's and an FTP drop-in.
+       Once received, the data needed to be transformed into a standard
+       format, and then validated.
+     * Wrote a module to collect and distribute credit-card transaction
+       data to third-party systems.
+     * Improved the performance of a financial transaction report that
+       made it about a thousand times quicker.
+     * Additions to an event booking and ticket redemption module.
+     * Synchronising data with an external loyalty points system, sending
+       periodic email notifications of points accrued from on-line
+       purchases.
+     * Gathering statistical data for marketing analysis that targets
+       specific audiences, like sports club members.
+     * Performance tuning, bug fixing, VM (Cent OS), Zen Desk, New Relic,
+       Postgresql configuration, and preparation for merchandise data
+       imports.
+
+   Freelancing
+   2014
+     * Developed an email-based app, for estateagencyallstars.co.uk, that
+       receives, reconciles and delivers emails (to estate agents) from
+       job applications (consisting of a CV, psychometric test and video
+       presentation) by aspiring estate agents.
+     * Developed a web-based thesaurus showing metaphors and referential
+       information, for Rowdy Labs, USA.
+     * Prepared course material introducing authentication in Rails, for
+       gotealeaf.com.
+     * Developed a prototype CRUD-based Rails app for a clothing inventory
+       in a US warehouse.
+
+   Security Icon, London
+   2013-2014
+   (Contract)
+     * Analysis and development of an administrative dashboard (in Rails)
+       which interfaces with credit card payment gateways. The UI provides
+       extensive search capabilities, detects misuse, compiles statistics
+       on card transactions, creates tiered accounts by invitation
+       (Devise) and also uses a Bootstrap template for a pleasing design.
+     * Synchronising Couchbase & SQL data-bases, querying Couchbase,
+       realistic data generation, graph drawing using the RGraph JS
+       library, role-based access authorisation, API compatibility, Ubuntu
+       system configuration and deployments.
+
+   Self-Employed
+   2012-2013
+     * Short-term freelancing projects which included an application for
+       registering parcel deliveries, data-base population (from JSON to
+       normalised SQL), time-slot reservations, web-page scraping, and the
+       development of a skeletal Rails application (for wire-framing)
+       using custom generators, Inherited Resources, generic templates,
+       Devise and Twitter Bootstrap 3.
+     * Worked on http://runabook.co.uk which is a pooled betting game for
+       groups of friends to bet on any upcoming sporting fixtures, but it
+       didn't prove popular. It's in Rails and deployed on Heroku, it has
+       15K lines of code. Wrote a set of Ruby scripts using the Twitter
+       API to target potential users of this game.
+     * Also developed, github.com/srycyk/thesaurus. - two one-page
+       thesaurus app's, one in Rails, the other in React. It has one of
+       the largest vocabularies available, as it's an amalgamation of
+       Roget, WordNet, and another thesaurus. It was online at
+       http://thesaurus-lexdump.rhcloud.com, but no longer.
+
+   Scientific Analysis Laboratories, Manchester
+   2011-2012
+   (Contract)
+     * Development for laboratory administration in Ruby on Rails using
+       Mysql and Oracle, with Passenger deployments.
+     * Developed a quotation and invoicing sub-system to track
+       work-in-progress for chemical and particulate analysis on
+       brown-field building sites. This permits authorised users to enter
+       quotes, sales orders & chargeable items, and it produces quotation
+       and invoice documents that are sent to the client. Amendments for
+       fine-grained access restriction (Can Can), and the allocation of
+       differing role sets for users per company branch.
+     * Wrote an application to schedule itineraries for the collection and
+       delivery of consignments from clients' sites. It provides a
+       web-based front-end for on-road drivers to use, as well as a
+       fallback of delivering SMS texts to give notice of route changes.
+     * Database conversions and imports.
+     * Enhancements to a web application to measure the ash, moisture and
+       density of chemical samples.
+
+   Objective Websites
+   2008-2010
+   (Freelancing)
+     * Started a business as a sole-trader offering software development
+       services. Prepared a business plan and received a regional aid
+       grant.
+     * Learnt Ruby on Rails, by developing a site to retrieve store and
+       search RSS feeds classified by tags, a Rails 3 Engine which allows
+       end users to answer multiple choice questions, a general purpose
+       price-comparison application, an email distributor and web scrapers
+       to find leads.
+     * Developed a site to share sheet music in PHP.
+
+   1988 - 2008
+   (Various)
+     * Contracts and permanent positions in finance (stock trading &
+       options), health-care, education, CMS development, email handling,
+       warehousing and retailing.
+     * Coding, analysis, software distribution, release management and
+       data-base administration.
+     * BT (Ipswich), Misys (Birmingham), Isoft (Manchester), Tridion
+       (Holland), Sportal (London), BSkyB (London), Commerzbank (Germany),
+       Nat West (Bristol), Newton Investment (London), Datel-Ferranti
+       (Preston), NHL (USA), Hoskyns (Southampton), EDS (Birmingham), AT&T
+       (Redditch), NHS (nationwide), German Health Service, etc..
